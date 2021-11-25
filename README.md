@@ -6,10 +6,7 @@
 
 ## Description:
  
-Back end application for an e-commerce site. 
-
-E-commerce platforms like Shopify and WooCommerce provide a suite of services to businesses of all sizes. Due to the prevalence of these platforms, developers should understand the fundamental architecture of e-commerce sites.
- 
+Back end application for an e-commerce site, with  functional Express API and the Sequelize ORM library to interact with a MySQL database.
 
 
 ##  Table of Contents
@@ -23,7 +20,7 @@ E-commerce platforms like Shopify and WooCommerce provide a suite of services to
 
  
 
-***GET, GET by ID, POST and DELETE***
+***GET, GET by ID and DELETE***
 * [View walkthrough video on Screencastify](https://watch.screencastify.com/v/5XdPFWPGZhD8T72ZLXEG)<br>
 
 ***POST***
