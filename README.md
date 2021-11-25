@@ -21,26 +21,43 @@ E-commerce platforms like Shopify and WooCommerce provide a suite of services to
 * [Questions](#questions)
 
 
-## Demo: 
+ 
 
-* [View walkthrough video on Screencastify]()<br>
+***GET, GET by ID, POST and DELETE***
+* [View walkthrough video on Screencastify](https://watch.screencastify.com/v/5XdPFWPGZhD8T72ZLXEG)<br>
+
+***POST***
+* [View walkthrough video on Screencastify](https://watch.screencastify.com/v/FCmSP0PwaxoOaBDn0eTb)<br>
+
+***REPOSITORY***
 
 * Repository link: [https://github.com/Tari-Star/Challenge13-E-commerce.git](https://github.com/Tari-Star/Challenge13-E-commerce.git)
 
+
+## Demo:
+
 ***GET routes to return all categories, all products, and all tags being tested in Insomnia Core:***
 
-![demo](./images/)
+![demo](./images/part1.gif)
 
 ***GET routes to return a single category, a single product, and a single tag being tested in Insomnia Core:***
 
-![demo](./images/)
+![demo](./images/part2.gif)
 
-***POST, PUT, and DELETE routes for categories, products, and tags being tested in Insomnia Core:***
+***POST routes for categories, products, and tags being tested in Insomnia Core:***
 
-![demo](./images/)
+![demo](./images/part3.gif)
+
+***PUT routes for categories, products, and tags being tested in Insomnia Core:***
+
+![demo](./images/part4.gif)
+
+***DELETE routes for categories, products, and tags being tested in Insomnia Core:***
+
+![demo](./images/part5.gif)
 
 
-## Technology ( Links ):
+ ## Technology ( Links ):
 
 **1. [Node.js ](https://nodejs.org/en/):**
 
@@ -79,7 +96,7 @@ E-commerce platforms like Shopify and WooCommerce provide a suite of services to
 * Insomnia is a free cross-platform desktop application that takes the pain out of interacting with and designing HTTP-based APIs. Insomnia combines an easy-to-use interface with advanced functionality like authentication helpers, code generation, and environment variables.
 
 
-## Usage:
+ ## Usage:
 
 ***To install necessary dependencies, run the following command in your terminal :***
 
@@ -109,7 +126,7 @@ E-commerce platforms like Shopify and WooCommerce provide a suite of services to
     
 ---
    
-  ## Questions?
+ ## Questions?
 
    
   <img src="https://avatars.githubusercontent.com/u/89365355?v=4" alt="Tari-Star" width="40%" />
